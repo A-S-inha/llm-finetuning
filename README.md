@@ -8,7 +8,7 @@ https://huggingface.co/datasets/gorilla-llm/APIBench
 
 Notebooks:
 - `Baseline_QWEN.ipynb` — baseline evaluation (control)
-- `LLM_Finetuning.ipynb` — LoRA fine-tuning and evaluation
+- `LM_Finetuning.ipynb` — LoRA fine-tuning and evaluation
 
 Notes:
 This project explores LLM fine-tuning and evaluation in a constrained
